@@ -35,13 +35,13 @@ As a new data engineer at Pewlett Hackard, your first major task is to conduct a
 
 ## GitHub Repository
 
-**Repository Name:** [sql-challenge](#)
+**Repository Name:** sql-challenge
 
 **Folder:** EmployeeSQL
 
 ## Files
 
-Download the necessary files from [Module 9 Challenge files](#) and place them in the `EmployeeSQL` folder.
+Download the necessary files from Module 9 Challenge filesand place them in the `EmployeeSQL` folder.
 
 ## Usage
 
